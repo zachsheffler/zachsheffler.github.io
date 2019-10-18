@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Your Sidebar Name"
-  avatar           : "files/profile-cropped.jpg"
+  avatar           : "profile-cropped.jpg"
   bio              : "Assistant Professor of Information Systems, Isenberg School of Management - UMass Amherst "
   location         : "Amherst, MA"
   employer         :
