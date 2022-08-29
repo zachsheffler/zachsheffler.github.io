@@ -12,4 +12,4 @@ I'm an Assistant Professor in the Department of Operations and Information Manag
 
 I grew up in San Diego, California, where in my early years I administered the volunteer program for EverQuest for Sony Online Entertainment (now Daybreak Games Company) and as an actuarial assistant. I attended the University of California, San Diego where I got my BA in History, and additionally I hold an MBA with a focus in international finance from the Thunderbird School of Global Management.
 
-I have very strong opinions about personnel decisions made by the San Diego Padres, panda bears (boo), and business models in the video games industry. I have no strong opinion in any direction regarding the deployment of the Oxford comma.
+I have very strong opinions about personnel decisions made by the San Diego Padres, the advice given by Mary Worth, and business models in the video games industry. I have no strong opinion in any direction regarding the deployment of the Oxford comma.
