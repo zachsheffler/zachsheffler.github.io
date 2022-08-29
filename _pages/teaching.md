@@ -15,4 +15,4 @@ Some assorted excerpts from teaching evaluations:
 
 - _I loved learning about ERDplus & SQL. I learned so many different useful programs that I know will help me in the future, and through my experiences learning these in this class I was able to get an internship with a company I really like so I really enjoyed this course._
 
-- _Professor Sheffler does a great job of explaining any points of  confusion and is also really approachable and willing to help._
+- _Professor Sheffler does a great job of explaining any points of confusion and is also really approachable and willing to help._
