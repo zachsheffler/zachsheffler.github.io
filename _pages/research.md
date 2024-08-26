@@ -21,7 +21,11 @@ Other work in this space includes the application of lightweight online support 
 
 In the online shopping context, decision making processes are wildly different when compared to brick-and-mortar stores, especially when choosing between products. Absent an ability to physically interact with a product, product reviews become crucial for decision-making.
 
-Here, I engage in two primary streams of research. First is determining trust in a review through the use of reviewer indcator badges ([Biased but Credible: An Experimental Study of Online Reviews](https://aisel.aisnet.org/icis2020/hci_artintel/hci_artintel/15/), _International Conference on Information Systems_, 2020; _AIS Transactions on Human Computer Intraction_, forthcoming). Second is the investigation of sorting of online reviews to better support online shoppers (under review)
+Here, I engage in two primary streams of research. First is determining trust in a review through the use of reviewer indcator badges ([Biased but Credible: An Experimental Study of Online Reviews](https://aisel.aisnet.org/thci/vol16/iss2/4/), _AIS Transactions on Human Computer Intraction_, 2024). Second is the investigation of sorting of online reviews to better support online shoppers (under review).
+
+Separately, I am actively engaged in research to categorize games on Steam utilizing user-generated content in reviews to determine which needs they fulfill. (early-stage; conference abstract forthcoming)
 
 ## Online Communities
-(under review)
+
+People use online communities like Reddit to 
+(under advanced review)

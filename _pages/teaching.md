@@ -9,7 +9,12 @@ __Note__: Course materials are not posted on this page. Current students: please
 
 I teach Business Intelligence and Analytics at the Undergraduate (OIM 350) and Graduate (SCH-MGMT 602) level.
 
-##
+## Awards
+
+I have been been presented with the following teaching awards:
+- **2015-2016:** Carlson School Doctoral Student Teaching Award
+- **2023:** Isenberg School of Management Teaching Excellence Award
+- **2024:** Isenberg School of Management College Outstanding Teaching Award 
 
 ## Summary of Past Evaluations
 
@@ -30,9 +35,11 @@ I teach Business Intelligence and Analytics at the Undergraduate (OIM 350) and G
 | FA22 OIM 350          | 42 (16)            | 4.8                      | 4.8                          |
 | FA22 SCH-MGMT 602     | 39 (28)            | 4.6                      | 4.3                          |
 | SP23 OIM 350          | 42 (19)            | 4.8                      | 4.5                          |
-| SP23 OIM 390ST        | 33 (14)            | 4.1                      | 3.6                          |
+| SP23 OIM 390STA       | 33 (14)            | 4.1                      | 3.6                          |
 | FA23 OIM 350          | 43 (18)            | 4.7                      | 4.5                          |
-| FA22 SCH-MGMT 602     | 40                 | TBD                      | TBD                          |
+| FA23 SCH-MGMT 602     | 40                 | 4.8                      | 4.4                          |
+| SP24 OIM 350          | 41 (25)            | 4.7                      | 4.4                          |
+| SP24 OIM 390STA       | 41 (7)             | 3.9                      | 3.4                          |
 
 
-_\* unofficial SRTI per UMass/MSP agreement
+\* unofficial SRTI per UMass/MSP agreement
