@@ -27,5 +27,4 @@ Separately, I am actively engaged in research to categorize games on Steam utili
 
 ## Online Communities
 
-People use online communities like Reddit to 
-(under advanced review)
+People use online communities like Reddit. What drives them to do this? (under advanced review)
