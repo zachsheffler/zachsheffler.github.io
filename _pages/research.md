@@ -17,11 +17,15 @@ The primary thrust of my gamification research has been in wellness. In collabor
 
 Other work in this space includes the application of lightweight online support (such as "likes" on Facebook) to the wellness context where we find that giving Kudos to people on an exercise social network helps to support exercise behavior ([The Effects of Digitally Delivered Nudges in a Corporate Wellness Program](https://aisel.aisnet.org/jais/vol24/iss1/5/)), _Journal of the Association for Information Systems_, 2023.
 
-## Product Reviews
+## User Generated Content
+
+### Product Reviews
 
 In the online shopping context, decision making processes are wildly different when compared to brick-and-mortar stores, especially when choosing between products. Absent an ability to physically interact with a product, product reviews become crucial for decision-making.
 
 Here, I engage in two primary streams of research. First is determining trust in a review through the use of reviewer indcator badges ([Biased but Credible: An Experimental Study of Online Reviews](https://aisel.aisnet.org/thci/vol16/iss2/4/), _AIS Transactions on Human Computer Intraction_, 2024). Second is the investigation of sorting of online reviews to better support online shoppers (under review).
+
+### Unsupervised Classification of Products
 
 Separately, I am actively engaged in research to categorize games on Steam utilizing user-generated content in reviews to determine which needs they fulfill. (early-stage; conference abstract forthcoming)
 

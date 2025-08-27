@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-__Note__: Course materials are not posted on this page. Current students: please find all relevant materials for class on your course Blackboard page. Previous Students: If you're looking for specific course material, please email me.
+__Note__: Course materials are not posted on this page. Current students: please find all relevant materials for class on your course Canvas page. Previous Students (and interested non-students): If you're looking for specific course material, please email me (see sidebar)
 
 I teach Business Intelligence and Analytics at the Undergraduate (OIM 350) and Graduate (SCH-MGMT 602) level. I also teach an experimental course on Data Visualization in Power BI (OIM 390STA) which I also designed.
 
@@ -40,6 +40,11 @@ I have been been presented with the following teaching awards:
 | FA23 SCH-MGMT 602     | 40                 | 4.8                      | 4.4                          |
 | SP24 OIM 350          | 41 (25)            | 4.7                      | 4.4                          |
 | SP24 OIM 390STA       | 41 (7)             | 3.9                      | 3.4                          |
+| FA24 OIM 350          | 40 (15)            | 5.0                      | 4.5                          |
+| FA24 SCH-MGMT 602     | 30 (26)            | 4.9                      | 4.8                          |
+| SP25 OIM 350          | _(TBD)_            | \-                       | \-                           |
+| SP25 OIM 390STA       | _(TBD)_            | \-                       | \-                           |
+
 
 
 \* unofficial SRTI per UMass/MSP agreement
