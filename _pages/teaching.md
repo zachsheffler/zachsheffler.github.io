@@ -11,7 +11,7 @@ I teach Business Intelligence and Analytics at the Undergraduate (OIM 350) and G
 
 ## Awards
 
-I have been been presented with the following teaching awards:
+I have been presented with the following teaching awards:
 - **2015-2016:** Carlson School Doctoral Student Teaching Award
 - **2023:** Isenberg School of Management Teaching Excellence Award
 - **2024:** Isenberg School of Management College Outstanding Teaching Award 
@@ -42,8 +42,10 @@ I have been been presented with the following teaching awards:
 | SP24 OIM 390STA       | 41 (7)             | 3.9                      | 3.4                          |
 | FA24 OIM 350          | 40 (15)            | 5.0                      | 4.5                          |
 | FA24 SCH-MGMT 602     | 30 (26)            | 4.9                      | 4.8                          |
-| SP25 OIM 350          | _(TBD)_            | \-                       | \-                           |
-| SP25 OIM 390STA       | _(TBD)_            | \-                       | \-                           |
+| SP25 OIM 350          | 42 (13)            | 4.8                      | 4.5                          |
+| SP25 OIM 390STA       | 41 (8)             | 4.3                      | 4.0                          |
+| FA25 OIM 350          | 41 (14)            | 4.9                      | 4.7                          |
+| FA25 SCH-MGMT 602     | 30 (18)            | 4.9                      | 4.6                          |
 
 
 
