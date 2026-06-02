@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Zachary Sheffler, Ph.D."
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Zachary Sheffler"
+description              : &description "Zachary Sheffler is an Assistant Professor of Information Systems at the Isenberg School of Management, UMass Amherst, studying decision making in video games, user-generated content, and online communities."
 url                      : https://zachsheffler.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zachsheffler/zachsheffler.github.io"
@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "custom" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : G-FLH1MG40FT
 
@@ -85,9 +85,9 @@ author:
   bio              : "Assistant Professor of Information Systems, Isenberg School of Management - UMass Amherst "
   location         : "Amherst, MA"
   employer         :
-  pubmed           : 
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=Rt9ucwsAAAAJ&hl=en"
-  email            :
+  email            : "zsheffler@isenberg.umass.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
